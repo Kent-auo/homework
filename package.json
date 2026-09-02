@@ -1,0 +1,25 @@
+{
+  "name": "Home",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "q1": "node src/Q1/main.js",
+    "q2": "node src/Q2/main.js",
+    "q3": "node src/Q3/main.js",
+    "q4": "node src/Q4/main.js",
+    "q5": "node src/Q5/main.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.4.3",
+    "@qdrant/js-client-rest": "^1.18.0",
+    "csv-parse": "^6.2.1",
+    "dotenv": "^17.4.2",
+    "lowdb": "^7.0.1",
+    "openai": "^6.38.0",
+    "ora": "^9.4.0",
+    "zod": "^4.4.3"
+  }
+}

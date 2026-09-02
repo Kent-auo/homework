@@ -1,0 +1,9 @@
+id,name,category,main_ingredients,calories_kcal,caffeine_mg,difficulty,price,origin,flavor
+1,Espresso,黑咖啡,Espresso,5,63,中,80,巴西,堅果
+2,Americano,黑咖啡,Espresso+Water,10,95,簡單,90,哥倫比亞,可可
+3,Latte,奶咖啡,Espresso+Milk,180,95,簡單,120,衣索比亞,奶香
+4,Cappuccino,奶咖啡,Espresso+Milk+Foam,100,95,中,120,瓜地馬拉,焦糖
+5,Mocha,風味咖啡,Espresso+Milk+Chocolate,280,95,中,140,巴西,巧克力
+6,Flat White,奶咖啡,Double Espresso+Milk,150,130,中,130,肯亞,莓果
+7,Cold Brew,黑咖啡,Cold Brew Coffee,15,180,中,110,衣索比亞,花香
+8,Nitro Cold Brew,黑咖啡,Cold Brew+Nitrogen,15,220,困難,140,哥倫比亞,可可
